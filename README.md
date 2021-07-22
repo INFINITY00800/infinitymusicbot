@@ -56,7 +56,7 @@ If you donlt like to play in linked channel:
 
 Get your channel ID.
 Rename your group to: Channel Music: your_channel_id
-Add @VCsMusicPlayer as Channel admin with full perms
+Add @infinitymusicbotas Channel admin with full perms
 add helper to channel
 Simply send commands in your group.
 Commands for Sudo Users 👮
