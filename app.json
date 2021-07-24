@@ -26,7 +26,7 @@
     "SUPPORT_GROUP": {
       "description": "Your MusicPlayer support group without @ [Leave this if you don't have one]",
       "required": false,
-      "value": "tgVCSets"
+      "value": "infinity"
     },
     "PROJECT_NAME": {
       "description": "Your MusicPlayer project Name.",
@@ -50,7 +50,7 @@
     "UPDATES_CHANNEL": {
       "description": "Updates Channel without @ [Leave this if you don't have one].",
       "required": false,
-      "value": "ZauteKm"
+      "value": "infinity"
     },    
     "API_ID": {
       "description": "App ID from my.telegram.org/apps",
