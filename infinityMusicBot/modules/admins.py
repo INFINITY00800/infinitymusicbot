@@ -3,15 +3,15 @@ from pyrogram import Client
 from pyrogram import filters
 from pyrogram.types import Message
 
-from VCsMusicBot.config import que
-from VCsMusicBot.function.admins import set
-from VCsMusicBot.helpers.channelmusic import get_chat_id
-from VCsMusicBot.helpers.decorators import authorized_users_only
-from VCsMusicBot.helpers.decorators import errors
-from VCsMusicBot.helpers.filters import command
-from VCsMusicBot.helpers.filters import other_filters
-from VCsMusicBot.services.callsmusic import callsmusic
-from VCsMusicBot.services.queues import queues
+from infinityMusicBot.config import que
+from infinityMusicBot.function.admins import set
+from infinityMusicBot.helpers.channelmusic import get_chat_id
+from infinityMusicBot.helpers.decorators import authorized_users_only
+from infinityMusicBot.helpers.decorators import errors
+from infinityMusicBot.helpers.filters import command
+from infinityMusicBot.helpers.filters import other_filters
+from infinityMusicBot.services.callsmusic import callsmusic
+from infinityMusicBot.services.queues import queues
 
 
 @Client.on_message(filters.command("adminreset"))
